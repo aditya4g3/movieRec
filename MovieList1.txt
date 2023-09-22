@@ -1,0 +1,506 @@
+12 Angry Men,1957,100.0,9.0,1,36,Drama,Legal Drama,Henry Fonda,Lee J Cobb,Ed Bedgley,Joseph Sweeney,Sidney Lumet
+3:10 to Yuma,2007,89.0,7.7,2,2,Western,Drama,Russell Crowe,Christian Bale,Ben Foster,Peter Fonda,James Mangold
+A Time to Kill,1996,67.0,7.5,2,29,Thriller,Drama,Matthew McConaughey,Sandra Bullock,Samuel L Jackson,Kevin Spacey,Joel Schumacher
+The Avengers,2012,92.0,8.0,2,24,Action,Sci-fi,Robert Downey Jr,Scarlett Johansson,Chris Hemsworth,Chris Evans,Joss Whedon
+Avengers: Infinity War,2018,85.0,8.4,2,40,Action,Sci-fi,Robert Downey Jr,Chris Hemsworth,Chris Evans,Mark Ruffalo,Russo Brothers
+Avengers: Endgame,2019,94.0,8.4,3,2,Action,Sci-fi,Robert Downey Jr,Chris Evans,Chris Hemsworth,Mark Ruffalo,Russo Brothers
+Avengers: Age of Ultron,2015,76.0,7.3,2,22,Action,Sci-fi,Robert Downey Jr,Chris Evans,Chris Hemsworth,Mark Ruffalo,Joss Whedon
+The Terminator,1984,100.0,8.0,1,48,Action,Sci-fi,Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Earl Boen,James Cameron
+Terminator 2: Judgment Day,1991,93.0,8.5,2,36,Action,Sci-fi,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,James Cameron
+Terminator: Dark Fate,2019,70.0,6.2,2,8,Action,Sci-fi,Arnold Schwarzenegger,Linda Hamilton,Mackenzie Davis,Gabriel Luna,Tim Miller
+The Bourne Identity,2002,83.0,7.9,1,59,Action,Thriller,Matt Damon,Franka Potente,Julia Stiles,Brian Cox,Doug Liman
+The Bourne Supremacy,2004,82.0,7.7,1,50,Action,Thriller,Matt Damon,Franka Potente,Julia Stiles,Joan Allen,Paul Greengrass
+The Bourne Ultimatum,2007,92.0,8.0,1,56,Action,Thriller,Matt Damon,Julia Stiles,Joan Allen,David Strathairn,Paul Greengrass
+John Wick,2014,87.0,7.4,1,42,Action,Thriller,Keanu Reeves,Ian McShane,Lance Reddick,John Leguizamo,Chad Stahelski
+John Wick: Chapter 2,2017,89.0,7.5,2,2,Action,Thriller,Keanu Reeves,Ruby Rose,Ian McShane,Laurence Fishburne,Chad Stahelski
+John Wick: Chapter 3- Parabellum,2019,90.0,7.4,2,23,Action,Thriller,Keanu Reeves,Halle Berry,Ian McShane,Asia Kate,Chad Stahelski
+Mission: Impossible,1996,64.0,7.1,1,50,Action,Adventure,Tom Cruise,Emmanuelle Beart,Ving Rhames,Jon Voight,Brian De Palma
+Mission: Impossible 2,2000,57.0,6.1,2,3,Action,Adventure,Tom Cruise,Thandie Newton,Ving Rhames,Dougray Scott,John Woo
+Mission: Impossible 3,2006,71.0,6.9,2,6,Action,Adventure,Tom Cruise,Michelle Monaghan,Philip Hoffman,Maggie Q,JJ Abrams
+Mission: Impossible- Ghost Protocol,2011,94.0,7.4,2,18,Action,Spy,Tom Cruise,Jeremy Runner,Simon Pegg,Paula Patton,Brad Bird
+Vanilla Sky,2001,42.0,6.9,2,17,Thriller,Sci-fi,Tom Cruise,Cameron Diaz,Penelope Cruz,Jason Lee,Cameron Crowe
+Dirty Harry,1971,89.0,7.7,1,43,Action,Thriller,Clint Eastwood,Andrew Robinson,Reni Santoni,Harry Guardino,Don Siegel
+Hang 'Em High,1968,92.0,7.0,1,56,Western,Western,Clint Eastwood,Inger Stevens,Pat Hingle,Ed Begley,Ted Post
+Psycho,1960,96.0,8.5,1,49,Horror,Thriller,Anthony Perkins,Janet Leigh,Vera Miles,John Gavin,Alfred Hitchcock
+Rope,1948,94.0,8.0,1,21,Crime,Thriller,James Stewart,Farley Granger,John Dall,Joan Chandler,Alfred Hitchcock
+Rear Window,1954,99.0,8.4,1,55,Thriller,Mystery,James Stewart,Grace Kelly,Thelma Ritter,Raymond Burr,Alfred Hitchcock
+The Godfather,1972,98.0,9.2,2,58,Crime,Drama,Marlon Brando,Al Pacino,James Caan,Robert Duvall,Francis Ford Coppola
+The Godfather Part 2,1974,98.0,9.0,3,22,Crime,Drama,Al Pacino,Robert De Niro,Diane Keaton,John Cazale,Francis Ford Coppola
+Star Wars: A New Hope,1977,92.0,8.6,2,5,Sci-fi,Action,Harrison Ford,Mark Hamill,Carrie Fisher,Alec Guinness,George Lucas
+Star Wars: The Empire Strikes Back,1980,94.0,8.7,2,7,Sci-fi,Action,Harrison Ford,Mark Hamill,Carrie Fisher,Peter Mayhew,Irvin Kershner
+Star Wars: Return of the Jedi,1983,82.0,8.3,2,16,Sci-fi,Adventure,Mark Hamill,Harrison Ford,Carrie Fisher,Peter Mayhew,Richard Marquand
+Star Wars: The Force Awakens,2015,92.0,7.9,2,15,Action,Sci-fi,Daisy Ridley,John Boyega,Adam Driver,Harrison Ford,JJ Abrams
+Star Wars: The Last Jedi,2017,90.0,7.0,2,32,Action,Sci-fi,Daisy Ridley,Mark Hamill,John Boyega,Adam Driver,Rian Johnson
+Knight and Day,2010,52.0,6.3,1,50,Action,Comedy,Tom Cruise,Cameron Dias,Peter Sarsgaard,Paul Dano,James Mangold
+Spider-Man,2002,90.0,7.3,2,1,Action,Fantasy,Tobey Maguire,Kirsten Dunst,Willem Dafoe,James Franco,Sam Raimi
+Spider-Man 2,2004,93.0,7.3,2,15,Action,Adventure,Tobey Maguire,Kirsten Dunst,Alfred Molina,James Franco,Sam Raimi
+Spider-Man 3,2003,62.0,6.2,2,36,Action,Adventure,Tobey Maguire,Kirsten Dunst,Thomas Church,James Franco,Sam Raimi
+The Amazing Spider-Man 2,2014,51.0,6.6,2,22,Action,Adventure,Andrew Garfield,Emma Stone,Jamie Foxx,Dan DeHaan,Marc Webb
+Spider-Man: Far From Home,2019,90.0,7.5,2,9,Action,Adventure,Tom Holland ,Zendaya,Jake Gyllenhaal,Jacob Batalon,Jon Watts
+Spider-Man: Homecoming,2017,92.0,7.4,2,13,Action,Adventure,Tom Holland,Michael Keaton,Robert Downey Jr,Jacob Batalon,Jon Watts
+Batman,1989,71.0,7.5,2,6,Action,Adventure,Michael Keaton,Jack Nicholson,Kim Basinger,Michael Gough,Tim Burton
+Batman Begins,2005,84.0,8.2,2,20,Action,Fantasy,Christian Bale,Katie Holmes,Liam Neeson,Michael Caine,Christopher Nolan
+The Dark Knight,2008,94.0,9.0,2,32,Action,Adventure,Christian Bale,Heath Ledger,Gary Oldman,Michael Caine,Christopher Nolan
+The Dark Knight Rises,2012,87.0,8.4,2,44,Action,Crime,Christian Bale ,Anne Hathaway,Tom Hardy,Michael Caine,Christopher Nolan
+Collateral,2004,86.0,7.5,2,0,Thriller,Crime,Tom Cruise,Jamie Foxx,Mark Ruffalo,Javier Bardem,Michael Mann
+Taxi Driver,1976,96.0,8.3,1,54,Crime,Drama,Robert De Niro,Jodie Foster,Cybill Shepherd,Peter Boyle,Martin Scorsese
+La La Land,2016,92.0,8.0,2,8,Musical,Romance,Ryan Gosling,Emma Stone,John Legend,Jessica Rothe,Damien Chazelle
+Joker,2019,68.0,8.5,2,2,Crime,Drama,Joaquin Phoenix,Robert De Niro,Brett Cullen,Frances Conroy,Todd Philips
+October Sky,1999,91.0,7.8,1,48,Drama,Documentary,Jake Gyllenhaal,Laura Dern,Chris Cooper,Chris Owen,Joe Johnston
+Forrest Gump,1994,71.0,8.8,2,22,Romance,Drama,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,Robert Zemeckis
+The Terminal,2004,61.0,7.4,2,8,Romance,Comedy,Tom Hanks,Catherine Zeta Jones,Stanley Tucci,Diego Luna,Steven Spielberg
+Escape from Alcatraz,1979,96.0,7.6,1,52,Action,Thriller,Clint Eastwood,Patrick McGoohan,Larry Hankin,Fred Ward,Don Siegel
+Thunderbolt and Lightfoot,1974,90.0,7.1,1,56,Crime,Drama,Clint Eastwood,Jeff Bridges,George Kennedy,Geoffrey Lewis,Michael Cimino
+The Nice Guys,2016,92.0,7.4,1,56,Action,Comedy,Ryan Gosling,Russell Crowe,Matt Bomer,Angourie Rice,Shane Black
+Changeling,2008,62.0,7.7,2,22,Mystery,Crime,Angelina Jolie,John Malkovich,Jeffrey Donovan,Jason Butler,Clint Eastwood
+The Curious Case of Benjamin Button,2008,72.0,7.8,2,48,Romance,Fantasy,Brad Pitt,Cate Blanchett,Tilda Swinton,Julia Ormond,David Fincher
+Once Upon a Time in Hollywood,2019,85.0,7.6,2,40,Comedy,Drama,Leonardo DiCaprio,Brad Pitt,Margot Robbie,Dakota Fanning,Quentin Tarantino
+Pale Rider,1985,93.0,7.3,1,56,Western,Action,Clint Eastwood,Sydney Penny,Carrie Snodgress,Michael Moriarty,Clint Eastwood
+High Plains Drifter,1973,92.0,7.5,1,45,Western,Western,Clint Eastwood,Verna Bloom,Marianna Hill,Billy Curtis,Clint Eastwood
+Two Mules for Sister Sara,1970,71.0,7.0,1,56,Western,War,Clint Eastwood,Shirley MacLaine,Manuel Fabregas,Alberto Morin,Don Siegel
+Twins,1988,43.0,6.1,1,47,Comedy,Comedy,Arnold Schwarzenegger,Danny DeVito,Kelly Preston,Chloe Webb,Ivan Reitman
+Kindergarten Cop,1990,51.0,6.1,1,51,Comedy,Thriller,Arnold Schwarzenegger,Penelope Ann Miller,Richard Tyson,Pamela Reed,Ivan Reitman
+Total Recall,1990,82.0,7.5,1,53,Sci-fi,Action,Arnold Schwarzenegger,Sharon Stone,Rachel Ticotin,Michael Ironside,Paul Verhoeven
+Predator,1987,81.0,7.8,1,47,Action,Sci-fi,Arnold Schwarzenegger,Carl Weathers,Jesse Ventura,Kevin Hall,John McTiernan
+The Revenant,2015,78.0,8.0,2,36,Western,Adventure,Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson,Alejandro Gonzalez
+Shutter Island,2010,68.0,8.2,2,19,Thriller,Mystery,Leonardo DiCaprio,Mark Ruffalo,Ben Kingsley,Max Von Sydow,Martin Scorsese
+Zodiac,2007,89.0,7.7,2,42,Thriller,Mystery,Jake Gyllenhaal,Mark Ruffalo,Robert Downey Jr,Anthony Edwards,David Fincher
+Seven,1995,82.0,8.6,2,8,Crime,Mystery,Brad Pitt,Morgan Freeman,Kevin Spacey,Gwyneth Paltrow,David Fincher
+Gone Girl,2014,87.0,8.1,2,29,Thriller,Mystery,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,David Fincher
+We Own the Night,2007,57.0,6.8,1,58,Crime,Drama,Joaquin Phoenix,Eva Mendes,Mark Wahlberg,Alex Veadov,James Gray
+Ghost Rider,2007,26.0,5.2,1,50,Action,Fantasy,Nicolas Cage,Eva Mendes,Sam Elliott,Wes Bentley,Mark Johnson
+Dog Day Afternoon,1975,96.0,8.0,2,30,Crime,Drama,Al Pacino,John Cazale,Chris Sarandon,Charles Durning,Sidney Lumet
+Scent of a Woman,1992,89.0,8.0,2,37,Coming of age,Drama,Al Pacino,Chris O'Donnell,Philip Hoffman,Gabrielle Anwar,Martin Brest
+Serpico,1973,90.0,7.7,2,10,Crime,Drama,Al Pacino,Cornelia Sharpee,Tony Roberts,John Randolph,Sidney Lumet
+Gravity,2013,96.0,7.7,1,31,Sci-fi,Thriller,Sandra Bullock,George Clooney,Ed Harris,Basher Savage,Alfonso Cuaron
+The Martian,2015,91.0,8.0,2,31,Sci-fi,Drama,Matt Damon,Jessica Chastain,Kate Mara,Chiwetel Ejiofor,Ridley Scott
+Interstellar,2014,72.0,8.6,2,49,Sci-fi,Adventure,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Michael Caine,Christopher Nolan
+We Bought a Zoo,2011,65.0,7.1,2,11,Family,Comedy,Matt Damon,Scarlett Johansson,Elle Fanning,Thomas Haden Church,Cameron Crowe
+The Rainmaker,1997,82.0,7.2,2,15,Drama,Legal Drama,Matt Damon,Claire Danes,Danny DeVito,Mickey Rourke,Francis Ford Coppola
+Witness for the Prosecution,1957,100.0,8.4,1,56,Mystery,Drama,Charles Laughton,Marlene Dietrich,Tyrone Power,Elsa Lanchester,Billy Wilder
+The Killing,1956,98.0,8.0,1,25,Noir,Crime,Sterling Hayden,Elisha Cook Jr,Marie Windsor,Coleen Gray,Stanley Kubrick
+Anatomy of a Murder,1959,100.0,8.0,2,41,Mystery,Crime,James Stewart,Lee Remick,Ben Gazzara,George C Scott,Otto Preminger
+Contagion,2011,85.0,6.7,1,46,Thriller,Drama,Matt Damon,Kate Winslet,Laurence Fishburne,Jude Law,Steven Soderbergh
+The Talented Mr Ripley,1999,83.0,7.4,2,19,Thriller,Crime,Matt Damon,Jude Law,Gwyneth Paltrow,Philip Hoffman,Anthony Minghella
+Brothers,2009,64.0,7.1,1,50,War,Drama,Tobey Maguire,Jake Gyllenhaal,Natalie Portman,Bailee Madison,Jim Sheridan
+Seabiscuit,2003,78.0,7.3,2,21,Sport,Drama,Tobey Maguire,Jeff Bridges,Elizabeth Banks,Chris Cooper,Gary Ross
+War Horse,2011,75.0,7.2,2,26,War,Drama,Jeremy Irvine,Tom Hiddleston,Benedict Cumberbatch,Emily Watson,Steven Spielberg
+Titanic,1997,89.0,7.8,3,30,Romance,Drama,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,James Cameron
+Goodfellas,1990,96.0,8.7,2,28,Crime,Drama,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,Martin Scorsese
+The Untouchables,1987,82.0,7.9,2,0,Crime,Drama,Sean Connery,Robert De Niro,Andy Garcia,Billy Drago,Brian De Palma
+Silver Linings Playbook,2012,92.0,7.7,2,2,Romance,Drama,Bradley Cooper,Jennifer Lawrence,Robert De Niro,Jacki Weaver,David O Russell
+You Only Live Twice,1967,73.0,6.9,1,57,Action,Spy,Sean Connery,Mie Hama,Donald Pleasence,Karin Dor,Lewis Gilbert
+Casino Royale,2006,95.0,8.0,2,25,Action,Adventure,Daniel Craig,Eva Green,Mads Mikkelsen,Judi Dench,Martin Campbell
+Quantum of Solace,2008,65.0,6.6,1,47,Action,Adventure,Daniel Craig,Olga Kurylenko,Mathieu Amalric,Judi Dench,Marc Foster
+Skyfall,2012,92.0,7.7,2,24,Action,Adventure,Daniel Craig,Javier Bardem,Judi Dench,Naomie Harris,Sam Mendes
+Spectre,2015,63.0,6.8,2,30,Action,Adventure,Daniel Craig,Lea Seydoux,Monica Belluci,Christopher Waltz,Sam Mendes
+The Machinist,2004,77.0,7.7,1,42,Thriller,Psychological Thriller,Christian Bale,Jennifer Leigh,John Sharian,Aitana Sanchez,Brad Anderson
+American Hustle,2013,92.0,7.2,2,18,Crime,Crime,Christian Bale,Amy Adams,Bradley Cooper,Jeremy Runner,David O Russell
+American Psycho,2000,69.0,7.6,1,44,Horror,Mystery,Christian Bale,Jared Leto,Willem Dafoe,Chloe Sevigny,Mary Harron
+Blade Runner,1982,90.0,8.1,1,57,Sci-fi,Action,Harrison Ford,Sean Young,Rutger Hauer,Daryl Hannah,Ridley Scott
+Balde Runner 2049,2017,88.0,8.0,2,44,Sci-fi,Thriller,Ryan Gosling,Harrison Ford,Jared Leto,Dave Bautista,Denis Villeneuve
+Witness,1985,93.0,7.4,1,52,Crime,Drama,Harrison Ford,Kelly McGillis,Lukas Haas,Viggo Mortensen,Peter Weir
+The Fugitive,1993,96.0,7.8,2,10,Action,Thriller,Harrison Ford,Tommy Lee Jones,Sela Ward,Andreas Katsulas,Andrew Davis
+Rio Bravo,1959,100.0,8.0,2,21,Western,Romance,John Wayne,Angie Dickinson,Ricky Nelson,Dean Martin,Howard Hawks
+Gladiator,2000,77.0,8.5,2,51,Action,Adventure,Russell Crowe,Connie Nielsen,Joaquin Phoenix,Richard Harris,Ridley Scott
+Scarface,1983,82.0,8.3,2,50,Crime,Crime,Al Pacino,Steven Bauer,Michaelle Pfeiffer,Robert Loggia,Brian De Palma
+The Shining,1980,84.0,8.4,2,24,Horror,Mystery,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,Stanley Kubrick
+One Flew Over the Cuckoo's Nest,1975,94.0,8.7,2,14,Drama,Comedy,Jack Nicholson,Louise Fletcher,Danny DeVito,Will Sampson,Milos Forman
+Pulp Ficton,1994,92.0,8.9,2,58,Crime,Comedy,John Travolta,Samuel L Jackson,Uma Thurman,Harvey Keitel,Quentin Tarantino
+Good Will Hunting,1997,97.0,8.3,2,7,Drama,Romance,Matt Damon,Robin Williams,Ben Affleck,Minnie Driver,Gus Van Sant
+Aladdin,1992,95.0,8.0,1,31,Animation,Fantasy,Robin Williams,Scott Weinger,Linda Larkin,Jonathan Freeman,Ron Clements
+Tangled,2010,89.0,7.7,1,40,Animation,Adventure,Mandy Moore,Zachary Levi,Donna Murphy,Richard Keil,Byron Howard
+Creed 2,2018,83.0,7.1,2,10,Sport,Drama,Michael Jordan,Sylvester Stallone,Tessa Thompson,Dolph Lundgren,Steven Caple Jr
+Rocky,1976,94.0,8.1,2,2,Sport,Drama,Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers,John G Avildsen
+Rocky 2,1979,71.0,7.3,2,0,Sport,Drama,Sylvester Stallone,Carl Weathers,Talia Shire,Burt Young,Sylvester Stallone
+Rocky 3,1982,63.0,6.8,1,40,Sport,Drama,Sylvester Stallone,Mr T,Carl Weathers,Talia Shire,Sylvester Stallone
+Rocky 4,1985,40.0,6.9,1,31,Sport,Drama,Sylvester Stallone,Dolph Lundgren,Talia Shire,Carl Weathers,Sylvester Stallone
+The Insider,1999,96.0,7.8,2,38,Drama,Drama,Al Pacino,Russell Crowe,Christopher Plummer,Diane Venora,Michael Mann
+Heat,1995,87.0,8.2,2,52,Crime,Crime,Al Pacino,Robert De Niro,Van Kilmer,Ashley Judd,Michael Mann
+Fight Club,1999,79.0,8.8,2,31,Drama,Thriller,Brad Pitt,Edward Norton,Helena Carter,Jared Leto,David Fincher
+Apollo 13,1995,96.0,7.6,2,20,Drama,Adventure,Tom Hanks,Bill Paxton,Kevin Bacon,Ed Harris,Ron Howard
+Nightcrawler,2014,95.0,7.9,1,57,Thriller,Crime,Jake Gyllenhaal,Rene Russo,Bill Paxton,Riz Ahmed,Dan Gilroy
+Ocean's Eleven,2001,83.0,7.7,1,57,Comedy,Heist,Brad Pitt,George Clooney,Matt Damon,Andy Garcia,Steven Soderbergh
+Ocean's Twelve,2004,55.0,6.5,2,5,Comedy,Heist,Brad Pitt,George Clooney,Matt Damon,Andy Garcia,Steven Soderbergh
+Ocean's Thirteen,2007,70.0,6.9,2,2,Crime,Comedy,Brad Pitt,George Clooney,Matt Damon,Al Pacino,Steven Soderbergh
+Bloodsport,1988,40.0,6.8,1,32,Action,Martial Arts,Jean Claude Van Damme,Bolo Yeung,Donald Gibb,Leah Ayres,Newt Arnold
+Kickboxer,1989,36.0,6.5,1,45,Action,Martial Arts,Jean Claude Van Damme,Michel Qissi,Dennis Chan,Dennis Alexio,David Worth
+Ip Man,2008,85.0,8.0,1,48,Action,Drama,Donnie Yen,Lynn Hung,Siu-Wong Fan,Simon Yam,Wilson Yip
+Ip Man 2,2010,96.0,7.5,1,49,Action,Drama,Donnie Yen,Sammo Hung,Lynn Hung,Darren Shahlavi,Wilson Yip
+Ip man 3,2015,76.0,7.1,1,45,Action,Martial Arts,Donnie Yen,Mike Tyson,Zhang Jin,Lynn Hung,Wilson Yip
+Ip Man 4,2019,87.0,7.1,1,45,Action,Martial Arts,Donnie Yen,Scott Adkins,Kent Cheng,Grace Englert,Wilson Yip
+Fearless,2006,73.0,7.6,1,45,Action,Martial Arts,Jet Li,Sun Li,Nathan Jones,Nakamura Shido,Ronny Yu
+Jurrasic Park,1993,91.0,8.1,2,7,Adventure,Sci-fi,Jeff Goldblum,Sam Neill,Laura Dern,Ariana Richards,Steven Spielberg
+Jurassic World: Fallen Kingdom,2018,47.0,6.2,2,10,Adventure,Action,Chris Pratt,Bryce Dallas Howard,Jeff Goldblum,Daniella Pineda,JA Bayona
+Iron Man,2008,94.0,7.9,2,6,Action,Sci-fi,Robert Downey Jr,Jon Favreau,Gwyneth Paltrow,Jeff Bridges,Jon Favreau
+Sherlock Holmes,2009,69.0,7.6,2,9,Mystery,Drama,Robert Downey Jr,Jude Law,Rachel McAdams,Mark Strong,Guy Ritchie
+Sherlock Holmes: A Game of Shadows,2011,59.0,7.5,2,9,Mystery,Action,Robert Downey Jr,Jude Law,Noomi Rapace,Jared Harris,Guy Ritchie
+Due Date,2010,39.0,6.5,1,35,Comedy,Road,Robert Downey Jr,Zach Galifianakis,Michelle Monaghan,Jamie Foxx,Todd Philips
+The Judge,2014,48.0,7.4,2,22,Drama,Crime,Robert Downey Jr,Robert Duvall,Vera Farmiga,Leighton Meester,David Dobkin
+Drive,2011,92.0,7.8,1,35,Action,Thriller,Ryan Gosling,Carey Mulligan,Christina Hendricks,Oscar Isaac,Nicolas Winding Refn
+First Man,2018,87.0,7.3,2,21,Drama,History,Ryan Gosling,Calire Foy,Jason Clarke,Kyle Chandler,Damien Chazelle
+Unforgiven,1996,96.0,8.2,2,11,Western,Action,Clint Eastwood,Gene Hackman,Richard Harris,Morgan Freeman,Clint Eastwood
+The Wolf of Wall Street,2013,80.0,8.2,3,0,Comedy,Crime,Leonardo DiCaprio,Jordan Belfort,Matthew McConaughey,Margot Robbie,Martin Scorsese
+The Lincoln Lawyer,2011,83.0,7.3,2,0,Thriller,Crime,Matthew McConaughey,Marisa Tomei,Ryan Phillippe,WWilliam H Macy,Brad Furman
+The Proposal,2009,45.0,6.7,1,48,Romance,Comedy,Ryan Reynolds,Sandra Bullock,Betty White,Mary Steenburgen,Anne Fletcher
+Speed,1994,94.0,7.2,1,56,Action,Adventure,Keanu Reeves,Sandra Bullock,Dennis Hopper,Jeff Daniels,Jan De Bont
+The Matrix,1999,88.0,8.7,2,30,Action,Sci-fi,Keanu Reeves,Laurence Fishburne,Carrie Anne Moss,Hugo Weaving,Lana Wachowski
+Raiders of the Lost Ark,1981,95.0,8.4,1,55,Adventure,Action,Harrison Ford,Karen Allen,Paul Freeman,Alfred Molina,Steven Spielberg
+Die Hard,1988,94.0,8.2,2,12,Action,Thriller,Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson,John McTiernan
+The Sixth Sense,1999,86.0,8.1,1,50,Thriller,Drama,Bruce Willis,Haley Joel Osmet,Donnie Wahlberg,Toni Collette,M Night Shyamalan
+The Prestige,2006,76.0,8.5,2,10,Mystery,Drama,Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine,Christopher Nolan
+Yojimbo,1961,95.0,8.2,1,50,Action,Adventure,Toshiro Mifune,Tatsuya Nakadai,Takashi Shimura,Isuzu Yamada,Akira Kurosawa
+Rashomon,1950,98.0,8.2,1,28,Crime,Drama,Toshiro Mifune,Machiko Kyo,Takashi Shimura,Minoru Chiaki,Akira Kurosawa
+Seven Samurai,1954,100.0,8.6,3,27,Action,Drama,Toshiro Mifune,Takashi Shimura,Seji Miyaguchi,Isao Kimura,Akira Kurosawa
+The Outlaw Josey Wales,1976,90.0,7.8,2,15,Western,War,Clint Eastwood,Sondra Locke,Chief Dan George,John Venom,Clint Eastwood
+Deadpool,2016,85.0,8.0,1,49,Action,Comedy,Ryan Reynolds,Morena Baccarin,Ed Skrein,TJ Miller,Tim Miller
+Deadpool 2,2018,83.0,7.7,2,14,Action,Comedy,Ryan Reynolds,Josh Brolin,Zazie Beetz,Morena Baccarin,David Leitch
+Citizen Kane,1941,100.0,8.3,1,59,Drama,Mystery,Orson Welles,Joseph Cotten,William Alland,Ray Collins,Orson Welles
+Blast from the Past,1999,58.0,6.6,1,52,Romance,Comedy,Brendan Fraser,Alicia Silverstone,Christopher Walken,Dave Foley,Hugh Wilson
+Captain America: Civil War,2016,91.0,7.8,2,28,Action,Adventure,Chris Evans,Robert Downey Jr,Sebastian Stan,Elizabeth Olsen,Russo Brothers
+Saving Private Ryan,1998,93.0,8.6,2,50,War,Action,Tom Hanks,Matt Damon,Edward Burns,Vin Diesel,Steven  Spielberg
+A Fistful of Dollars,1964,98.0,8.0,1,39,Western,Action,Clint Eastwood,Gian Maria Volonte,Marianne Koch,Mario Brega,Sergio Leone
+The Holiday,2006,50.0,6.9,2,18,Romance,Comedy,Jude Law,Cameron Diaz,Kate Winslet,Jack Black,Nancy Meyers
+Spy,2015,95.0,7.0,2,10,Action,Comedy,Jason Statham,Melissa McCarthy,Jude Law,Rose Byrne,Paul Feig
+The Italian Job,1969,83.0,7.3,1,40,Action,Crime,Michael Caine,Benny Hill,Noel Coward,Margaret Blye,Peter Collinson
+The Transporter,2002,54.0,6.8,1,33,Action,Thriller,Jason Statham,Shu Qi,Matt Schulze,Francois Berleand,Louis Leterrier
+For a Few Dollars More,1965,92.0,8.3,2,12,Western,Action,Clint Eastwood,Lee Van Cleef,Gian Maria Volonte,Klaus Kinski,Sergio Leone
+The Good the Bad and the Ugly,1966,97.0,8.8,2,58,Western,Action,Clint Eastwood,Eli Wallach,Lee Van Cleef,Aldo Giuffre,Sergio Leone
+Thor: Ragnarok,2017,93.0,7.9,2,10,Action,Adventure,Chris Hemsworth,Cate Blanchett,Tom Hiddleston,Mark Ruffalo,Taika Waititi
+First Blood,1982,85.0,7.7,1,33,Action,Adventure,Sylvester Stallone,Richard Crenna,Brian Dennehy,David Caruso,Ted Kotcheff
+Commando,1985,71.0,6.7,1,32,Action,Thriller,Arnold Schwarzenegger,Alyssa Milano,Rae Dawn Chong,Vernon Wells,Mark Lester
+Enter the Dragon,1973,94.0,7.7,1,50,Action,Adventure,Bruce Lee,John Saxon,Jim Kelly,Bolo Yeung,Robert Clouse
+Don't Breathe,2016,88.0,7.1,1,28,Horror,Thriller,Stephen Lang,Jane Levy,Dylan Minnette,Daniel Zovatto,Fede Alvarez
+Dragon Ball Super: Broly,2018,82.0,7.9,1,41,Animation,Action,Masako Nozawa,Ryo Horikawa,Bin Shimada,Ryusei Nakao,Tatsuya Nagamine
+The Departed,2006,91.0,8.5,2,31,Crime,Thriller,Matt Damon,Leonardo DiCaprio,Jack Nicholson,Mark Wahlberg,Martin Scorsese
+Ad Astra,2019,84.0,6.6,2,4,Sci-fi,Drama,Brad Pitt,Tommy Lee Jones,Ruth Negga,Donald Sutherland,James Gray
+Inception,2010,87.0,8.8,2,42,Action,Sci-fi,Leonardo DiCaprio,Ellio Page,Tom Hardy,Cillian Murphy,Christopher Nolan
+The Usual Suspects,1995,89.0,8.5,1,48,Thriller,Crime,Kevin Spacey,Benicio Del Toro,Gabriel Byrne,Stephen Baldwin,Bryan Singer
+Magnum Force,1973,72.0,7.2,2,4,Action,Thriller,Clint Eastwood,David Soul,Hal Holbrook,Tim Matheson,Ted Post
+The Enforcer,1976,68.0,6.8,1,36,Action,Thriller,Clint Eastwood,Tyne Daly,DeVeren Bookwalter,Albert Popwell,James Fargo
+Django Unchained,2013,87.0,8.4,2,45,Western,Drama,Jamie Foxx,Christopher Waltz,Leonardo DiCaprio,Samuel L Jackson,Quentin Tarantino
+Snatch,2000,73.0,8.3,1,44,Comedy,Crime,Brad Pitt,Jason Statham,Vinnie Jones,Benicio Del Toro,Guy Ritchie
+The Lion King,2019,52.0,6.9,1,58,Animation,Family,Beyonce,Donald Glover,James Earl Jones,Seth Rogen,Jon Favreau
+LA Confidential,1997,99.0,8.2,2,18,Crime,Mystery,Guy Pearce,Russell Crowe,Kim Basinger,Kevin Spacey,Curtis Hanson
+No Country for Old Men,2007,93.0,8.1,2,3,Crime,Thriller,Javier Bardem,Josh Brolin,Tommy Lee Jones,Kelly Macdonald,Coen Brothers
+There Will be Blood,2007,92.0,8.2,2,38,Drama,Epic,Daniel Day Lewis,Paul Dano,Dilon Freasier,Ciaran Hinds,Paul Anderson
+Catch Me if You Can,2002,96.0,8.1,2,21,Crime,Drama,Leonardo DiCaprio,Tom Hanks,Amy Adams,Christopher Walken,Steven Spielberg
+The Pursuit of Happyness,2006,67.0,8.0,1,57,Drama,Drama,Will Smith,Jaden Smith,Thandie Newton,Dan Castellaneta,Gabriele Muccino
+Rush,2013,88.0,8.1,2,3,Sport,Action,Chris Hemsworth,Daniel Bruhl,Alexandra Maria Lara,Natalie Dormer,Ron Howard
+Back to the Future,1985,96.0,8.5,1,56,Sci-fi,Comedy,Michael J Fox,Chistopher Lloyd,Lea Thompson,Claudia Wells,Robert Zemeckis
+And Justice for All,1979,83.0,7.4,2,0,Crime,Drama,Al Pacino,Jack Warden,John Forsythe,Christine Lahti,Norman Jewison
+The Great Train Robbery,1978,73.0,6.9,1,50,Crime,Thriller,Sean Connery,Donald Sutherland,John Bett,Lesley Down,Michael Crichton
+Limitless,2011,69.0,7.4,1,45,Thriller,Action,Bradley Cooper,Robert De Niro,Abbie Cornish,Anna Friel,Neil Burger
+Doctor Strange,2016,89.0,7.5,1,55,Action,Fantasy,Benedict Cumberbatch,Chiwetel Ejiofor,Rachel McAdams,Tilda Swinton,Scott Derrickson
+The Wild Bunch,1969,90.0,7.9,2,25,Western,Drama,Ernest Borgnine,William Holden,Robert Ryan,Ben Johnson,Sam Peckinpah
+True Grit,2010,95.0,7.6,1,51,Western,Drama,Jeff Bridges,Matt Damon,Hailee Steinfeld,John Brolin,Coen Brothers
+Hell or High Water,2016,97.0,7.6,1,42,Western,Thriller,Jeff Bridges,Chris Pine,Ben Foster,Gil Birmingham,David Mackenzie
+Dragon Ball Z: Resurrection F,2015,83.0,7.3,1,34,Action,Animation,Masako Nozawa,Ryo Horikawa,Ryusei Nakao,Toshio Furukawa,Tadayoshi Yamamuro
+Warrior,2011,83.0,8.2,2,20,Action,Drama,Tom Hardy,Joel Edgerton,Nick Nolte,Jennifer Morrison,Gavin O'Connor
+Blood Diamond,2006,63.0,8.0,2,23,Adventure,War,Leonardo DiCaprio,Jennifer Connely,Djimon Hounsou,Arnold Vosloo,Edward Zwick
+Face/Off,1997,92.0,7.3,2,20,Action,Sci-fi,Nicolas Cage,John Travolta,Gina Gershon,Dominique Swain,John Woo
+Space Cowboys,2000,78.0,6.4,2,10,Adventure,Drama,Clint Eastwood,Tommy Lee Jones,James Garner,Donald Sutherland,Clint Eastwood
+In the Line of Fire,1993,96.0,7.2,2,8,Thriller,Action,Clint Eastwood,Rene Russo,John Malkovich,Dylan McDermott,Wolfgang Petersen
+Dead Poets Society,1989,84.0,8.1,2,20,Drama,Teen,Robin Williams,Robert Leonard,Ethan Hawke,John Charles,Peter Weir
+American Sniper,2014,72.0,7.3,2,14,War,Action,Bradley Cooper,Sienna Miller,Luke Grimes,Jason Hall,Clint Eastwood
+Ford V Ferrari,2019,92.0,8.1,2,32,Drama,Sport,Matt Damon,Christian Bale,Jon Bernthal,Caitriona Balfe,James Mangold
+Knives Out,2019,97.0,7.9,2,10,Mystery,Comedy,Daniel Craig,Chris Evans,Ana de Armas,Jamie Lee Curtis,Rian Johnson
+1917,2019,89.0,8.3,1,59,War,Action,George MacKay,Dean Chapman,Richard Madden,Benedict Cumberbatch,Sam Mendes
+Marriage Story,2019,94.0,8.0,2,17,Romance,Drama,Adam Driver,Scarlett Johansson,Laura Dern,Ray Liotta,Noah Baumbach
+The Apartment,1960,93.0,8.3,2,5,Comedy,Romance,Jack Lemmon,Shirley MacLaine,Fred MacMurray,Jack Kruschen,Billy Wilder
+Insomnia,2002,92.0,7.9,1,58,Thriller,Mystery,Al Pacino,Robin Williams,Hilary Swank,Martin Donovan,Christopher Nolan
+Dunkirk,2017,93.0,7.9,1,46,War,Action,Tom Hardy,Harry Styles,Fionn Whitehead,Cillian Murphy,Christopher Nolan
+Once Upon a Time in the West,1968,95.0,8.5,2,55,Western,Drama,Henry Fonda,Charles Bronson,Claudia Cardinale,Jason Robards,Serigo Leone
+Raging Bull,1980,93.0,8.2,2,9,Sport,Drama,Robert De Niro,Martin Scorsese,Cathy Moriarty,Joe Pesci,Martu Scorsese
+2001: A Space Odyssey,1968,92.0,8.3,2,44,Sci-fi,Adventure,Keir Dullea,Gary Lockwood,Douglas Rain,WIlliam Sylvester,Stanley Kubrick
+A Clockwork Orange,1971,88.0,8.3,2,17,Sci-fi,Crime,Malcolm McDowell,Anthony Burgess,Patrick Magee,David Prowse,Stanley Kubrick
+A Few Good Men,1992,83.0,7.7,2,18,Legal Drama,Drama,Tom Cruise,Jack Nicholson,Demi Moore,Aaron Sorkin,Rob Reiner
+And Then There Were None,1945,100.0,7.5,1,37,Mystery,Noir,Barry Fitzgerald,Walter Huston,Louis Hayward,Roland Young,Rene Clair
+Angel Heart,1987,79.0,7.3,1,53,Thriller,Mystery,Mickey Rourke,Lisa Bonet,Robert De Niro,Charlotte Rampling,Alan Parker
+Arrival,2016,94.0,7.9,1,58,Thriller,Sci-fi,Amy Adams,Jeremy Runner,Forest Whitaker,Michael Stuhlbarg,Denis Villeneuve
+Cape Fear,1991,75.0,7.3,2,8,Psychological Thriller,Crime,Robert De Niro,Nick Nolte,Juliette Lewis,Jessica Lange,Martin Scorsese
+Carlito's Way,1993,81.0,7.9,2,24,Crime,Drama,Al Pacino,Penelope Ann Miller,Sean Penn,Luis Guzman,Brian De Palma
+Charade,1963,94.0,7.9,1,55,Mystery,Thriller,Audrey Hepburn,Cary Grant,George Kennedy,Walter Matthau,Stanley Donen
+Chinatown,1974,99.0,8.1,2,11,Mystery,Crime,Jack Nicholson,Faye Dunaway,John Huston,John Hillerman,Roman Polanski
+Compulsion,1959,100.0,7.4,1,43,Crime,Drama,Orson Welles,Dean Stockwell,Diane Varsi,Bradford Dillman,Richard Fleischer
+Coogan's Bluff,1968,94.0,6.5,1,36,Crime,Thriller,Clint Eastwood,Susan Clark,Tisha Sterling,Don Stroud,Don Siegel
+Leave Her to Heaven,1945,92.0,7.6,1,51,Noir,Drama,Cornel Wilde,Vincent Prince,Darryl Hickman,Ray Collins,John Stahl
+Dial M for Murder,1954,89.0,8.2,1,45,Mystery,Thriller,Ray Milland,Grace Kelly,Anthony Dawson,John Williams,Alfred Hitchcock
+Double Indemnity,1944,97.0,8.3,1,50,Noir,Crime,Barbara Stanwyck,Fred MacMurray,Edward Robinson,Jean Heather,Billy Wilder
+Dr No,1962,95.0,7.2,2,0,Action,Adventure,Sean Connery,Ursula Andress,Joseph Wiseman,Eunice Gayson,Terence Young
+Fatal Attraction,1987,76.0,6.9,1,59,Thriller,Drama,Michael Douglas,Glenn Close,Anne Archer,Ellen Hamilton,Adrian Lyne
+Fracture,2007,71.0,7.2,1,53,Thriller,Mystery,Anthony Hopkins,Ryan Gosling,Rosamund Pike,Embeth Davidtz,Gregory Hoblit
+Get Out,2017,98.0,7.7,1,44,Horror,Thriller,Daniel Kaluuya,Allison Williams,Bradley Whitford,Lakeith Stanfield,Jordan Peele
+High and Low,1963,95.0,8.4,2,23,Crime,Drama,Toshiro Mifune,Tatsuya Nakadai,Tsutomu Yamazaki,Takashi Shimura,Akira Kurosawa
+It's a Wonderful Life,1946,94.0,8.6,2,12,Drama,Fantasy,James Stewart,Donna Reed,Lionel Barrymore,Karolyn Grimes,Frank Capra
+Jaws,1975,98.0,8.0,2,10,Horror,Thriller,Roy Scheider,Richard Dreyfuss,Robert Shaw,Lorraine Gray,Steven Spielberg
+Joe Kidd,1972,80.0,6.5,1,28,Western,Drama,Clint Eastwood,John Saxon,Stella Garcia,Don Stroud,John Sturges
+Kramer vs Kramer,1979,88.0,7.8,1,45,Drama,Legal Drama,Dustin Hoffman,Meryl Streep,Justin Henry,Jane Alexander,Robert Benton
+Laura,1944,100.0,8.0,1,28,Noir,Mystery,Gene Tierney,Dana Andrews,Clifton Webb,Vincent Prince,Otto Preminger
+Marnie,1964,83.0,7.2,2,10,Thriller,Mystery,Sean Connery,Tippi Hedren,Diane Baker,Louise Latham,Alfred Hitchcock
+Midnight Lace,1960,83.0,6.8,1,50,Mystery,Thriller,Doris Day,Rex Harrison,Myrna Loy,John Gavin,David Miller
+Memento,2000,93.0,8.4,1,54,Thriller,Mystery,Guy Pearce,Carrie Anne Moss,Joe Pantoliano,Mark Boone,Christopher Nolan
+Minority Report,2002,90.0,7.6,2,26,Sci-fi,Action,Tom Cruise,Samantha Morton,Daniel London,Colin Farrell,Steven Spielberg
+Midnight Run,1988,94.0,7.5,2,7,Comedy,Action,Robert De Niro,Charles Grodin,Yaphet Kotto,Dennis Farina,Martin Brest
+Mulholland Drive,2001,83.0,7.9,2,27,Mystery,Thriller,Naomi Watts,Laura Harring,Justin Theroux,Michael Anderson,David Lynch
+Mystic River,2003,88.0,7.9,2,18,Thriller,Crime,Kevin Bacon,Sean Penn,Tim Robbins,Laura Linney,Clint Eastwood
+North by Northwest,1959,99.0,8.3,2,16,Mystery,Thriller,Cary Grant,Eva Saint,James Mason,Martin Landau,Alfred Hitchcock
+Panic Room,2002,75.0,6.8,1,53,Psychological Thriller,Crime,Jodie Foster,Kristen Stewart,Forest Whitaker,Jared Leto,David Fincher
+Play Misty for Me,1971,84.0,7.0,1,43,Thriller,Crime,Clint Eastwood,Jessica Walter,Donna Mills,Don Siegel,Clint Eastwood
+Primal Fear,1996,75.0,7.7,2,10,Thriller,Crime,Edward Norton,Richard Gere,Laura Linney,Frances McDormand,Gregory Hoblit
+Prisoners,2013,81.0,8.1,2,34,Thriller,Crime,Jake Gyllenhaal,Hugh Jackman,Paul Dano,Melissa Leo,Denis Villeneuve
+Sleepers,1996,73.0,7.6,2,27,Crime,Drama,Kevin Bacon,Brad Pitt,Robert De Niro,Jason Patric,Barry Levinson
+Spartacus,1960,93.0,7.9,3,18,War,Action,Kirk Douglas,Jean Simmons,Tony Curtis,Laurence Olivier,Stanley Kubrick
+Strangers on a Train,1951,98.0,7.9,1,43,Thriller,Noir,Farley Granger,Robert Walker,Pat Hitchcock,Ruth Roman,Alfred Hitchcock
+Superbad,2007,88.0,7.6,1,59,Comedy,Teen,Jonah Hill,Michael Cera,Seth Rogen,Bill Hader,Greg Mottola
+Superman,1978,94.0,7.3,3,8,Action,Sci-fi,Christopher Reeve,Margot Kidder,Marlon Brando,Gene Hackman,Richard Donner
+Superman 2,1980,87.0,6.8,2,7,Action,Adventure,Christopher Reeve,Terence Stamp,Margot Kidder,Gene Hackman,Richard Lester
+The Big Clock,1948,100.0,7.7,1,36,Noir,Crime,Ray Milland,Charles Laughton,Maureen O'Sullivan,Harry Morgan,John Farrow
+The Big Short,2015,88.0,7.8,2,10,Comedy,Drama,Christian Bale,Ryan Gosling,Brad Pitt,Marisa Tomei,Adam McKay
+The Big Sleep,1946,97.0,7.9,1,56,Noir,Mystery,Humphrey Bogart,Lauren Bacall,Martha Vickers,John Ridgely,Howard Hanks
+The Birds,1963,95.0,7.7,2,0,Horror,Thriller,Tippi Hedren,Rod Taylor,Jessica Tandy,Suzanne Pleshette,Alfred Hitchcock
+The Conversation,1974,96.0,7.8,1,53,Mystery,Thriller,Gene Hackman,John Cazale,Cindy Williams,Harrison Ford,Francis Ford Coppola
+The Eiger Sanction,1975,68.0,6.4,2,9,Thriller,Action,Clint Eastwood,Brenda Venus,George Kennedy,Vonetta McGee,Clint Eastwood
+The French Connection,1971,98.0,7.7,1,44,Crime,Thriller,Gene Hackman,Fernando Rey,Roy Scheider,Sonny Grosso,William Friedkin
+The Game,1997,75.0,7.8,2,15,Thriller,Mystery,Michael Douglas,Deborah Unger,Sean Penn,James Rebhorn,David Fincher
+The Gift,2015,91.0,7.0,1,48,Thriller,Mystery,Joel Edgerton,Jason Bateman,Rebecca Hall,Allison Tolman,Joel Edgerton
+The Girl with The Dragon Tattoo,2011,86.0,7.8,2,40,Mystery,Thriller,Daniel Craig,Rooney Mara,Stellan Skarsgard,Robin Wright,David Fincher
+The Great Gatsby,2013,48.0,7.2,2,23,Romance,Drama,Leonardo DiCaprio,Carey Mulligan,Tobey Maguire,Joel Edgerton,Baz Luhrmann
+The Gunfighter,1950,100.0,7.7,1,25,Western,Drama,Gregory Peck,Millard Mitchell,Helen Westcott,Jean Parker,Henry King
+The Hangover,2009,78.0,7.7,1,48,Comedy,Comedy,Bradley Cooper,Zach Galifianakis,Ed Helms,Justin Bartha,Todd Philips
+The Lost Weekend,1945,98.0,7.9,1,44,Noir,Drama,Ray Milland,Jane Wyman,Philip Terry,Howard Da Silva,Billy Wilder
+The Man from Laramie,1955,100.0,7.3,1,44,Western,Drama,James Stewart,Cathy O'Donnell,Donald Crisp,Arthur Kennedy,Anthony Mann
+The Man Who Knew Too Much,1956,87.0,7.4,2,0,Thriller,Suspense,James Stewart,Doris Day,Brenda De Banzie,Bernard Miles,Alfred Hitchcock
+The Man Who Shot Liberty Valance,1962,94.0,8.1,2,4,Western,Drama,John Wayne,James Stewart,Lee Marvin,Vera Miles,John Ford
+The Night of the Hunter,1955,95.0,8.0,1,33,Thriller,Crime,Robert Mitchum,Lillian Gish,Shelley Winters,Peter Graves,Charles Laughton
+The Naked Spur,1953,100.0,7.3,1,31,Western,Thriller,James Stewart,Janet Leight,Robert Ryan,Ralph Meeker,Anthony Mann
+The Omen,1976,86.0,7.5,1,51,Horror,Mystery,Gregory Peck,Harvey Spencer,Lee Remick,David Warner,Richard Donner
+The Philadelphia Story,1940,100.0,7.9,1,52,Romance,Comedy,Cary Grant,Katherine Hepburn,James Stewart,Ruth Hessey,George Cukor
+The Proposition,2005,85.0,7.3,1,44,Western,Drama,Guy Pearce,Emily Watson,Ray Winstone,John Hurt,John Hillcoat
+The Shawshank Redemption,1994,91.0,9.3,2,22,Drama,Crime,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,Frank Darabont
+The Silence of the Lambs,1991,96.0,8.6,2,18,Thriller,Horror,Anthony Hopkins,Jodie Foster,Ted Levine,Brooke Smith,Jonathan Demme
+The Sting,1973,94.0,8.3,2,9,Drama,Heist,Robert Redford,Paul Newman,Robert Shaw,Eileen Brennan,George Roy Hill
+The Third Man,1949,99.0,8.1,1,48,Noir,Mystery,Joseph Cotten,Orson Welles,Alida Valli,Trevor Howard,Carol Reed
+The Trouble with Harry,1955,90.0,7.1,1,40,Comedy,Mystery,John Forsythe,Shirley MacLaine,Edmund Gwenn,Mildred Natwick,Alfred Hitchcock
+The Verdict,1982,88.0,7.7,2,9,Drama,Legal Drama,Paul Newman,Charlotte Rampling,James Mason,Jack Warden,Sidney Lumet
+To Catch a Thief,1955,96.0,7.4,1,46,Mystery,Romance,Cary Grant,Grace Kelly,Brigitte Auber,Jessie Landis,Alfred Hitchcock
+To Kill a Mockingbird,1962,92.0,8.2,2,10,Drama,Mystery,Gregory Peck,Mary Badham,Philip Alford,Brock Peters,Robert Mulligan
+Vertigo,1958,94.0,8.3,2,9,Mystery,Thriller,James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore,Alfred Hitchcock
+Winchester '73,1950,100.0,7.6,1,33,Western,Drama,James Stewart,Dan Duryea,Shelley Winters,Stephen McNally,Anthony Mann
+Wind River,2017,88.0,7.7,1,50,Mystery,Thriller,Jeremy Runner,Elizabeth Olsen,Kelsey Chow,Julia Jones,Taylor Sheridan
+Changing Lanes,2002,77.0,6.5,1,39,Thriller,Drama,Ben Affleck,Toni Collette,Samuel L Jackson,Sydney Pollack,Roger Michell
+The Green Mile,1999,78.0,8.6,3,9,Fantasy,Drama,Tom Hanks,Michael Clarke Duncan,Sam Rockwell,David Morse,Frank Darabont
+Once Upon a Time in America,1984,87.0,8.4,3,49,Crime,Drama,Robert De Niro,James Woods,Elizabeth McGovern,Jennifer Connelly,Sergio Leone
+The Great Escape,1963,94.0,8.2,2,53,War,Action,Richard Attenborough,James Garner,Steve McQueen,Charles Bronson,John Sturges
+Million Dollar Baby,2004,91.0,8.1,2,13,Sport,Drama,Hilary Swank,Clint Eastwood,Morgan Freeman,Jay Baruchel,Clint Eastwood
+On the Waterfront,1954,99.0,8.1,1,48,Drama,Romance,Marlon Brando,Eva Marie Saint,Karl Malden,Rid Steiger,Elia Kazan
+Her,2013,94.0,8.0,2,6,Romance,Sci-fi,Joaquin Phoenix,Spike Jonze,Scarlett Johansson,Rooney Mara,Spike Jonze
+A Streetcar Named Desire,1951,98.0,8.0,2,7,Drama,Drama,Marlon Brando,Vivien Leigh,Kim Hunter,Karl Malden,Elia Kazan
+Murder My Sweet,1944,94.0,7.6,1,35,Noir,Crime,Dick Powell,Claire Trevor,Anne Shirley,Mike Mazurki,Edward Dmytryk
+My Darling Clementine,1946,100.0,7.8,1,43,Western,Drama,Henry Fonda,Victor Mature,Cathy Downs,Walter Brennan,John Ford
+White Heat,1949,97.0,8.1,1,54,Noir,Crime,James Cagney,Virginia Mayo,Margaret,Edmund O Brien,Raoul Walsh
+20000 Leagues Under the Sea,1954,89,7.2,2,7,Adventure,Sci-fi,Kirk Douglas,James Mason,Paul Lukas,Peter Lorre,Richard Fleischer
+A Canterybury Tale ,1944,93,7.5,2,5,War,Drama,Sheila Sim,Eric Portman,John Sweet,Dennis Price,Michael Powell & Emeric Pressburger
+A Fish Called Wanda,1988,94,7.5,1,49,Comedy,Crime,Jamie Lee Curtis,Kevin Kline,John Cleese,Michael Palin,Charles Crichton
+A Matter of Life and Death ,1946,97,8.1,1,44,Romance,Fantasy,David Niven,Kim Hunter,Roger Livesey,Marius Goring,Michael Powell & Emeric Pressburger
+A New Leaf,1971,100,7.4,1,42,Romance,Comedy,Walter Mathau,Elaine May,Jack Weston,George Rose,Elaine May
+A Shot in the Dark,1964,94,7.5,1,43,Comedy,Mystery,Peter Sellers,Elke Sommer,Herbert Lom,Graham Stark,Blake Edwards
+A Simple Plan,1998,90,7.5,2,1,Thriller,Crime,Bill Paxton,Billy Bob Thornton,Bridget Fonda,Brent Briscoe,Sam Raimi
+Ace in the Hole,1951,92,8.1,1,52,Noir,Drama,Kirk Douglas,Jan Sterling,Porter Hall,Richard Benedict,Billy Wilder
+Adam's Rib ,1949,96,7.5,1,41,Romance,Comedy,Spencer Tracy,Katharine Hepburn,Judy Holliday,David Wayne,George Cukor
+Air Force One,1997,78,6.5,2,5,Action,Thriller,Harrison Ford,Gary Oldman,Liesel Matthews,Glenn Close,Wolfgang Petersen
+Airplane!,1980,97,7.7,1,28,Romance,Comedy,Leslie Nielsen,Julie Hagerty,Robert Hays,Llyod Bridges,David Zucker
+Alfie,1966,96,7,1,54,Romance,Drama,Michael Caine,Shelley Winters,Jane Asher,Julia Foster,Lewis Gilbert
+Alien,1979,98,8.4,1,57,Horror,Sci-fi,Sigourney Weaver,Yaphet Kotto,Veronica Cartwright,Tom Skerritt,Ridley Scott
+American Beauty,1999,87,8.3,2,2,Romance,Drama,Kevin Spacey,Thora Birch,Mena Suvari,Wes Bentley ,Sam Mendes
+Apocalypse Now,1979,98,8.4,2,33,War,Drama,Martin Sheen,Marlon Brando,Robert Duvall,Dennis Hopper,Francis Ford Coppola
+As Good As It Gets,1997,85,7.7,2,19,Romance,Drama,Jack Nicholson,Helen Hunt,Greg Kinnear,Skeet Ulrich,James Brooks
+Bad Day at Black Rock,1955,97,7.7,1,22,Noir,Western,Spencer Tracy,Robert Ryan,Ernest Borgnine,Lee Marvin,John Sturges
+Badlands,1973,98,7.8,1,35,Crime,Drama,Martin Sheen,Sissy Spacek,Warren Oates,Alan Vint,Terrence Malick
+Barry Lyndon,1975,91,8.1,3,7,Romance,Drama,Ryan O'Neal,Marisa Berenson,Patrick Magee,Hardy Kruger,Stanley Kubrick
+Being There,1979,95,8,2,10,Comedy,Satire,Peter Sellers,Melvyn Douglas,Jack Warden,Shirley MacLaine,Hal Ashby
+Bend of the River,1952,100,7.3,1,32,Action,Western,James Stewart,Arthur Kennedy,Julie Adams,Rock Hudson,Anthony Mann
+Blade Runner,1982,90,8.1,1,57,Action,Sci-fi,Harrison Ford,Sean Young,Rutger Hauer,Edward James Olmos,Ridley Scott
+Blow-up,1966,88,7.6,1,51,Mystery,Thriller,David Hemmings,Vanessa Redgrave,Jane Birklin,Sarah Miles,Michelangelo Antonioni
+Blue Velvet,1986,94,7.7,2,0,Mystery,Crime,Isabella Rossellini,Kyle MacLachlan,Laura Dern,Dennis Hopper,David Lynch
+Bonnie and Clyde ,1967,88,7.8,1,52,Romance,Drama,Faye Dunaway,Warren Beatty,Michael J Pollard,Gene Hackman,Arthur Penn
+Brief Encounter,1945,91,8,1,30,Romance,Drama,Celia Johnson,Trevor Howard,Joyce Carey,Stanley Holloway,David Lean
+Bullitt,1968,97,7.4,1,54,Action,Crime,Steve McQueen,Jacqueline Bisset,Robert Vaughn,Robert Duvall,Peter Yates
+Bunny Lake is Missing,1965,87,7.3,1,47,Mystery,Psychological Thriller ,Laurence Olivier,Keir Dullea ,Carol Lynley,Noel Coward,Otto Preminger
+Butch Cassidy and the Sundance Kid,1969,90,8,1,53,Western,Drama,Robert Redford,Paul Newman,Katharine Ross,Ted Cassidy,George Roy Hill
+Casablanca,1942,99,8.5,1,42,Romance,Drama,Humphrey Bogart,Ingrid Bergman,Claude Rains,Paul Henreid,Michael Curtiz
+Champion,1949,93,7.4,1,40,Noir,Sport,Kirk Douglas,Arthur Kennedy,Marilyn Maxwell,Paul Stewart,Mark Robson
+Children of Men,2006,92,7.9,1,54,Thriller,Sci-fi,Clive Owen,Julianne Moore,Michael Caine,Chiwetel Ejiofor ,Alfonso Cuaron
+Class Action,1991,76,6.4,1,50,Drama,Legal Drama,Gene Hackman,Mary Elizabeth,Colin Friels,Laurence Fishburne,Michael Apted
+Cool Hand Luke,1967,100,8.1,2,7,Drama,Crime,Paul Newman,George Kennedy,Strother Martin,Dennis Hopper,Stuart Rosenberg
+Cutter's Way,1981,91,6.9,1,49,Thriller,Crime,Jeff Bridges,John Heard,Lisa Eichhorn,Ann Dusenberry,Ivan Passer
+Dallas Buyers Club,2013,93,8,2,0,Drama,History,Matthew McConaughey,Jared Leto,Jennifer Garner,Steve Zahn,Jean Marc Vallee
+Dark Passage,1947,93,7.5,1,46,Noir,Crime,Humphrey Bogart,Lauren Bacall,Agnes Moorehead,Bruce Bennett,Delmer Daves
+Deliverance ,1972,89,7.7,1,50,Adventure,Drama,Burt Reynolds,Ned Beatty,Jon Voight,Ronny Cox,John Boorman
+Desk Set,1957,100,7.3,1,44,Romance,Comedy,Spencer Tracy,Katharine Hepburn,Dina Merrill,Joan Blondell,Walter Lang
+Dirty Rotten Scoundrels,1988,89,7.4,1,50,Comedy,Crime,Michael Caine,Steve Martin,Glenne Headly,Anton Rodgers,Frank Oz
+Don't Look Now,1973,95,7.2,1,50,Horror,Thriller,Donald Sutherland,Julie Christie,Hilary Mason,Renato Scarpa,Nicolas Roeg
+Double Indemnity,1944,97,8.3,1,50,Noir,Crime,Fred MacMurray,Barbara Stanwyck,Edward Robinson,Tom Powers,Billy Wilder
+Duel,1971,88,7.6,1,31,Action,Thriller,Dennis Weaver,Carey Loftin,Shirley O'Hara,Jacqueline Scott,Steven Spielberg
+Eternal Sunshine of the Spotless Mind,2004,93,8.3,1,48,Romance,Comedy,Jim Carrey,Kate Winslet,Kirsten Dunst,Mark Ruffalo,Michel Gondry
+Executive Suite,1954,100,7.4,1,44,Drama,Adaptation,William Holden,Barbara Stanwyck,June Allyson,Shelley Winters,Robert Wise
+Fargo,1996,94,8.1,1,38,Crime,Thriller,Frances McDormand,William H Macy,Steve Buscemi,Peter Stormare,Coen Brothers
+Father of The Bride,1950,90,7.2,1,32,Romance,Comedy,Spencer Tracy,Elizabeth Taylor,Joan Bennett,Billie Burke,Vicente Minnelli
+Full Metal Jacket ,1987,92,8.3,1,56,War,Action,R Lee Ermey,Vincent D'Onofrio,Matthew Modine,Adam Baldwin,Stanley Kubrick
+Gambit,1966,80,7.1,1,49,Thriller,Heist,Michael Caine,Shirley MacLaine,Herbert Lom,Roger C Carmel,Ronald Neame
+Gaslight,1940,100,7.3,1,29,Mystery,Thriller,Anton Walbrook,Diana Wynward,Cathleen Cordell,Frank Pettingell,Thorold Dickinson
+Get Carter,1971,84,7.4,1,52,Crime,Thriller,Michael Caine,Britt Ekland,Ian Hendry,Geraldine Moffat,Mike Hodges
+Glengarry Glen Ross,1992,95,7.7,1,40,Drama,Indie,Al Pacino,Jack Lemmon,Alec Baldwin,Ed Harris,James Foleu
+Gone Baby Gone ,2007,94,7.6,1,54,Mystery,Drama,Casey Affleck,Michelle Monaghan,Ed Harris,Morgan Freeman,Ben Affleck
+Gone With the Wind,1939,91,8.1,3,58,Romance,Drama,Clark Gable,Vivien Leigh,Olivia De Havilland,Hattie McDaniel,Victor Fleming
+Good Time,2017,92,7.4,1,41,Crime,Thriller,Robert Pattinson,Benny Safdie,Jennifer Jason Leigh,Taliah Webster,Benny Safdie
+Groundhog Day,1993,96,8,1,41,Romance,Comedy,Bill Murray,Andie MacDowell,Harold Ramis,Chris Elliott,Harold Remis
+Guess Who's Coming to Dinner,1967,70,7.8,1,48,Comedy,Drama,Spencer Tracy,Sidney Poitier,Katharine Hepburn,Katharine Houghton,Stanley Kramer
+Gunfight at the O.K. Corral,1957,82,7.2,2,2,Western,Drama,Kirk Douglas,Burt Lancaster,Rhonda Fleming,DeForest Kelley,John Sturges
+Guys and Dolls,1955,91,7.1,2,32,Musical,Comedy,Marlon Brando,Frank Sinatra,Vivian Blaine,Stubby Kaye,Joseph L Mankiewicz
+Hamlet,1948,95,7.6,2,35,Drama,Adaptation,Laurence Olivier,Jean Simmons,Eileen Herlie,Felix Aylmer,Laurence Olivier
+Harper,1966,100,6.9,2,1,Mystery,Neo-noir,Paul Newman,Lauren Bacall,Julie Harris,Janet Leigh,Jack Smight
+High Noon,1952,96,7.9,1,25,Western,Drama,Gary Cooper,Grace Kelly,Katy Jurado,Lloyd Bridges,Fred Zinneman
+High Sierra,1941,90,7.5,1,40,Noir,Crime,Humphrey Bogart,Ida Lupino,Joan Leslie,Arthur Kennedy,Raoul Walsh
+Holiday,1938,100,7.8,1,35,Romance,Comedy,Cary Grant,Katharine Hepburn,Doris Nolan,Lew Ayres,George Cukor
+Hombre,1967,93,7.4,1,51,Western,Drama,Paul Newman,Diane Cilento,Richard Boone,Barbara Rush,Martin Ritt
+Home Alone,1990,67,7.6,1,43,Comedy,Family,Macaulay Culkin,Joe Pesci,Daniel Stern,Catherine O'Hara,Chris Columbus
+How to Steal A Million,1966,100,7.6,2,7,Romance,Comedy,Peter O'Toole,Audrey Hepburn,Eli Wallach,Hugh Griffith,William Wyler
+In A Lonely Place,1950,98,8,1,34,Noir,Romance,Humphrey Bogart,Gloria Grahame,Frank Lovejoy,Jeff Donnell,Nicholas Ray 
+In the Name of the Father,1993,94,8.1,2,15,Thriller,Drama,Daniel Day Lewis,Pete Postlethwaite,Emma Thompson,John Lynch,Jim Sheridan
+Indiana Jones and the Last Crusade,1989,88,8.2,2,8,Adventure,Action,Harrison Ford,Sean Connery,Alison Doody,John Rhys-Davies,Steven Spielberg
+Inglorious Basterds,2009,89,8.3,2,33,War,Action,Brad Pitt,Christoph Waltz,Eli Roth,Diane Kruger,Quentin Tarantino
+Invasion of the Body Snatchers,1978,93,7.4,1,57,Horror,Sci-fi,Donald Sutherland,Brooke Adams,Kevin McCarthy,Jeff Goldblum,Philip Kaufman
+Investigation of a Citizen Above Suspicion,1970,100,8.1,1,55,Crime,Drama,Gian Maria Volonte,Florida Bolkan,Gianni Santuccio,Salvo Randone,Elio Petri
+It Happened One Night,1934,98,8.1,1,45,Romance,Comedy,Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns,Frank Capra
+Jagged Edge,1985,81,6.5,1,49,Mystery,Romance,Jeff Bridges,Glenn Close,Robert Loggia,Peter Coyote,Richard Marquand
+Judgment at Nuremberg,1961,91,8.2,3,8,War,Drama,Spencer Tracy,Maximilian Schell,Judy Garland,Burt Lancaster,Stanley Kramer
+Julius Caesar ,1953,95,7.3,2,1,Drama,History,Marlon Brando,John Gielgud,James Mason,Louis Calhern,Joseph L Mankiewicz
+Key Largo,1948,97,7.8,1,41,Noir,Crime,Humphrey Bogart,Lauren Bacall,Edward Robinson,Claire Trevor,John Huston
+Kind Hearts and Coronets,1949,100,8,1,46,Comedy,Crime,Alec Guinness,Dennis Price,Joan Greenwood,Valerie Hobson,Robert Hamer
+Kiss Me Deadly,1955,98,7.6,1,46,Noir,Crime,Ralph Meeker,Paul Stewart,Albert Dekker,Wesley Addy,Robert Aldrich
+Klute,1971,93,7.1,1,54,Thriller,Crime,Donald Sutherland,Jane Fonda,Roy Scheider,Charles Cioffi,Alan Pakula
+Lawrence of Arabia,1962,97,8.3,3,48,Drama,War,Peter O'Toole,Omar Sharif,Alec Guinness,Anthony Quinn,David Lean
+Locke,2013,91,7.1,1,25,Drama,Thriller,Tom Hardy,Ruth Wilson,Tom Holland,Olivia Colman,Steven Knight
+Logan Lucky,2017,92,7,1,59,Comedy,Crime,Adam Driver,Daniel Craig,Channing Tatum,Riley Keough,Steven Soderbergh
+Lonely Are the Brave,1962,93,7.6,1,47,Western,Drama,Kirk Douglas,Gena Rowlands,Walter Mathau,George Kennedy,David Miller
+Lost in Translation,2003,95,7.7,1,44,Romance,Drama,Bill Murray,Scarlet Johansson,Giovanni Ribisi,Anna Faris,Sofia Coppola
+Man of the West,1958,93,7.1,1,40,Western,Drama,Gary Cooper,Lee J Cobb,Julie London,Jack Lord,Anthony Mann
+Manchester by the Sea,2016,96,7.8,2,17,Drama,Drama,Casey Affleck,Michelle Williams,Lucas Hedges,Kyle Chandler,Kenneth Lonergan
+Manhunter,1986,92,7.2,2,4,Thriller,Horror,William Petersen,Brian Cox,Tom Noonan,Stephen Lang,Michael Mann
+Mean Streets,1973,95,7.3,1,52,Crime,Drama,Harvey Keitel,Robert De Niro,Amy Robinson,David Proval,Martin Scorsese
+Meet The Parents,2000,84,7,1,48,Romance,Comedy,Ben Stiller,Robert De Niro,Teri Polo,Blythe Danner,Jay Roach
+Memories of Murder,2003,94,8.1,2,12,Thriller,Crime,Kang-Ho Song,Kim Sang-kyung,Park Hae-il,Byun Hee-bong,Bong Joon-ho
+Misery,1990,90,7.8,1,47,Horror,Thriller,Kathy Bates,James Caan,Lauren Bacall,Richard Farnsworth,Rob Reiner
+Mr Smith Goes to Washington ,1939,96,8.1,2,10,Comedy,Drama,James Stewart,Jean Arthur,Claude Rains,Harry Carey,Frank Capra
+Mutiny on the Bounty,1935,93,7.7,2,12,Drama,History,Clark Gable,Charles Laughton,Franchot Tone,Eddie Quillan,Frank Lloyd
+My Cousin Vinny ,1992,86,7.6,2,0,Comedy,Legal Drama,Joe Pesci,Marisa Tomei,Ralph Macchio,Fred Gwyne,Jonathan Lynn
+Night Moves,1975,83,7.1,1,40,Mystery,Noir,Gene Hackman,Melanie Griffith,Jennifer Warren,Susan Clark,Arthur Penn
+Notorious,1946,98,7.9,1,42,Thriller,Noir,Cary Grant,Ingrid Bergman,Claude Rains,Leopoldine Konstantin,Alfred Hitchcock
+Odd Man Out,1947,100,7.7,1,56,Noir,Thriller,James Mason,Robert Newton,Cyril Cusack,FJ McCormick,Carol Reed
+Office Space ,1999,80,7.7,1,29,Comedy,Dark Comedy,Ron Livingston,Gary Cole,Jennifer Aniston,David Herman,Mike Judge
+Our Man in Havana,1959,94,7.2,1,51,Thriller,Comedy,Alec Guinness,Maureen O'Hara,Noel Coward,Burl Ives,Carol Reed
+Out of Sight,1998,93,7,2,3,Crime,Comedy,George Clooney,Jennifer Lopez,Don Cheadle,Ving Rhames,Steven Soderbergh
+Out of the Past,1947,95,8,1,37,Noir,Crime,Robert Mitchum,Kirk Douglas,Jane Greer,Rhonda Fleming,Jacques Tourneur
+Parasite,2019,99,8.6,2,12,Thriller,Comedy,Cho Yeo-jeong,Park So-dam,Woo-sik Choi,Jeong Ji-so,Boong Joon-ho
+Paths of Glory,1957,95,8.4,1,28,War,Drama,Kirk Douglas,George Macready,Adolphe Menjou,Christiane Kubrick,Stanley Kubrick
+Philadelphia,1993,80,7.7,2,6,Drama,Legal Drama,Tom Hanks,Denzel Washington,Antonio Banderas,Jason Robards,Jonathan Demme
+Presumed Innocent,1990,87,6.9,2,7,Mystery,Thriller,Harrison Ford,Greta Scacchi,Bonnie Bedelia,Raul Julia,Alan Pakula
+Pride and Prejudice,1940,100,7.4,1,58,Romance,Drama,Laurence Olivier,Greer Garson,Edmund Gwenn,Edna May Olivier,Robert Leonard
+Rain Man,1988,89,8,2,14,Drama,Melodrama,Dustin Hoffman,Tom Cruise,Valeria Golino,Gerald R Molen,Barry Levinson
+Ran,1985,97,8.2,2,42,War,Drama,Tatsuya Nakadai,Jinpachi Nezu,Mieko Harada,Daisuke Ryu,Akira Kurosawa
+Rebecca,1940,100,8.1,2,10,Romance,Mystery,Laurence Olivier,Joan Fontaine,Judith Anderson,George Sanders,Alfred Hitchcock
+Red River ,1948,100,7.8,2,13,Western,Drama,John Wayne,Montgomery Clift,Joanne Dru,Walter Brennan,Howard Hanks
+Reservoir Dogs,1992,92,8.3,1,40,Crime,Thriller,Michael Madsen,Tim Roth,Quentin Tarantino,Steve Buscemi,Quentin Tarantino
+Reversal of Fortune,1990,92,7.2,1,52,Mystery,Drama,Jeremy Irons,Glenn Close,Ron Silver,Uta Hagen,Barbet Schroeder
+Roman Holiday,1953,97,8,1,58,Romance,Comedy,Greogory Peck,Audrey Hepburn,Eddie Albert,Hartley Power,William Wyler
+Rosemary's Baby,1968,96,8,2,17,Horror,Psychological Thriller ,Mia Farrow,Ruth Gordon,John Cassavetes,Sidney Blackmer,Roman Polanski
+Sabrina,1954,92,7.7,1,53,Romance,Comedy,Humphrey Bogart,Audrey Hepburn,William Holden,John Williams,Billy Wilder
+Say Anything,1989,98,7.3,1,40,Romance,Teen,John Cusack,Ione Skye,John Mahoney,Lili Taylor,Cameron Crowe
+Sayonara,1954,93,7.1,2,27,Romance,Drama,Marlon Brando,Miko Taka,Red Buttons,Miyoshi Umeki,Joshua Logan
+Scarecrow,1973,75,7.3,1,53,Drama,Road,Gene Hackman,Al Pacino,Dorothy Tristan,Ann Wedgeworth,Jerry Schatzberg
+Searching,2018,92,7.6,1,42,Mystery,Thriller,John Cho,Debra Messing,Michelle La,Sara Sohn,Aneesh Chaganty
+Shane,1953,97,7.6,1,58,Western,Drama,Alan Ladd,Jean Arthur,Jack Palance,Brandon deWilde,George Stevens
+Side Effects,2013,82,7.1,1,46,Thriller,Drama,Jude Law,Rooney Mara,Channing Tatum,Catherine Zeta Jones,Steven Soderbergh
+Singin' in the Rain,1952,100,8.3,1,43,Musical,Romance,Gene Kelly,Debbie Reynolds,Donald O'Connor,Jean Hagen,Stanley Donen
+Skyfall,2012,92,7.7,2,24,Action,Adventure,Daniel Craig,Javier Bardem,Judi Dench,Naomie Harris,Sam Mendes
+Sleuth,1972,96,8,2,19,Mystery,Thriller,Laurence Olivier,Michael Caine,Alec Cawthorne,Eve Channing,Joseph L Mankiewicz
+Source Code,2011,92,7.5,1,33,Action,Sci-fi,Jake Gyllenhaal,Michelle Monaghan,Vera Farmiga,Jeffrey Wright,Duncan Jones
+Stagecoach,1939,100,7.8,1,39,Western,Drama,John Wayne,Claire Trevor,Thomas Mitchell,John Carradine,John Ford
+Suddenly,1954,100,6.8,1,17,Noir,Thriller,Frank Sinatra,Sterling Hayden,Nancy Gates,James Gleason,Kim Charney
+Sunset Boulevard,1950,99,8.4,1,55,Noir,Drama,William Holden,Gloria Swanson,Nancy Olson,Erich Von Stroheim,Billy Wilder
+Suspicion,1941,97,7.4,1,39,Mystery,Thriller,Cary Grant,Joan Fontaine,Heather Angel,Nigel Bruce,Alfred Hitchcock
+Sweet Smell of Success,1957,98,8.1,1,36,Noir,Drama,Burt Lancaster,Tony Curtis,Susan Harrison,Martin Milner,Alexander Mackendrick
+That Hamilton Woman,1941,100,7.2,2,8,Romance,Drama,Laurence Olivier,Vivien Leigh,Alan Mowbray,Gladys Cooper,Alexander Korda
+The African Queen,1951,98,7.7,1,46,Adventure,War,Humphrey Bogart,Katharine Hepburn,Robert Morley,Theodore Bikel,John Huston
+The Age of Innocence,1993,84,7.2,2,19,Romance,Drama,Daniel Day Lewis,Michelle Pfeiffer,Winona Ryder,Geraldine Chaplin,Martin Scorsese
+The Asphalt Jungle,1950,97,7.9,1,52,Noir,Crime,Sterling Hayden,Marilyn Monroe,Sam Jaffe,James Whitmore,John Huston
+The Awful Truth,1937,93,7.7,1,31,Romance,Comedy,Cary Grant,Irene Dunne,Ralph Bellamy,Molly Lamont,Leo McCarey
+The Bad and the Beautiful,1952,79,7.8,1,59,Romance,Drama,Kirk Douglas,Lana Turner,Gloria Grahame,Dick Powell,Vincente Minnelli
+The Barefoot Contessa,1954,100,7,2,10,Romance,Drama,Humphrey Bogart,Ava Gardner,Edmond O'Brien,Rossano Brazzi,Warren Stevens
+The Beguiled,1971,89,7.2,1,49,Western,War,Clint Eastwood,Geraldine Page,Elizabeth Hartman,Jo Ann Harris,Don Siegel
+The Best Years of Our Lives,1946,97,8,2,52,Drama,War,Harold Russell,Dana Andrews,Frederic March,Myrna Loy,William Wyler
+The Big Lebowski,1998,83,8.1,1,59,Comedy,Crime,Jeff Bridges,John Goodman,Steve Buscemi,Julianne Moore,Coen Brothers
+The Boston Strangler,1968,86,7.1,1,56,Crime,Drama,Tony Curtis,Henry Fonda,George Kennedy,Murray Hamilton,Richard Fleischer
+The Bridge on the River Kwai,1957,95,8.1,2,47,War,Drama,Alec Guinness,William Holden,Sessue Hayakawa,Jack Hawkins,David Lean
+The Caine Mutiny,1954,92,7.7,2,5,War,Drama,Humphrey Bogart,Van Johnson,Fred MacMurray,Jose Ferrer,Edward Dmytryk
+The Chase,1966,88,7.2,2,15,Crime,Drama,Marlon Brando,Robert Redford,Anige Dickinson,Jane Fonda,Arthur Penn
+The Count of Monte Cristo,2002,73,7.8,2,14,Adventure,Romance,Guy Pearce,Jim Caviezel,Dagmara Dominczyk,Henry Cavill,Kevin Reynolds
+The Deer Hunter,1978,93,8.1,3,4,War,Drama,Robert De Niro,John Cazale,Christopher Walken,Meryl Streep,Michael Cimino
+The Desperate Hours,1955,88,7.5,1,53,Noir,Crime,Humphrey Bogart,Frederic March,Martha Scott,Arthur Kennedy,William Wyler
+The Evil Dead,1981,95,7.5,1,57,Horror,Splatter,Bruce Campbell,Ellen Sandweiss,Betsy Baker,Teresa Tilly,Sam Raimi
+The Far Country,1954,100,7.2,1,37,Western,Romance,James Stewart,Corinne Calvet,Ruth Roman,Walter Brennan,Anthony Mann
+The Fighter,2010,90,7.8,1,56,Sport,Drama,Mark Wahlberg,Christian Bale,Amy Adams,Melissa Leo,David O Russell
+The Firm,1993,75,6.8,2,34,Thriller,Drama,Tom Cruise,Gene Hackman,Jeanne Tripplehorn,Holly Hunter,Sydney Pollack
+The Getaway,1972,86,7.4,2,3,Action,Crime,Steve McQueen,Ali MacGraw,Sally Struthers,Al Lettieri,Sam Peckinpah
+The Graduate,1967,87,8,1,47,Romance,Drama,Dustin Hoffman,Anne Bancroft,Katharine Ross,William Daniels,Mike Nichols
+The Grifters,1990,91,6.9,1,59,Crime,Noir,John Cusack,Annette Bening,Anjelica Huston,Henry Jones,Stephen Frears
+The Hound of the Baskervilles,1939,91,7.5,1,20,Mystery,Adaptation,Basil Rathbone,Nigel Bruce,Wendy Barrie,Lionel Atwill,Sidney Lanfield
+The Incident,1967,88,7.7,1,47,Thriller,Indie,Tony Musante,Martin Sheen,Beau Bridges,Brock Peters,Larry Peerce
+The Ipcress File,1965,100,7.2,1,49,Thriller,Spy,Michael Caine,Nigel Green,Guy Doleman,Sue Lloyd,Sidney J Furie
+The Irishman,2019,96,7.9,3,30,Crime,Drama,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,Martin Scorsese
+The Killers ,1946,100,7.8,1,45,Noir,Crime,Burt Lancaster,Ava Gardner,Virginia Christine,Edmond O'Brien,Robert Siodmak
+The Lady Vanishes ,1938,98,7.8,1,37,Mystery,Thriller,Margaret Lockwood,Michael Redgrave,May Whitty,Basil Radford,Alfred Hitchcock
+The Ladykillers,1955,100,7.7,1,37,Comedy,Crime,Alec Guinness,Katie Johnson,Peter Sellers,Herbert Lom,Alexander Mackendrick
+The Lavender Hill Mob,1951,100,7.6,1,21,Comedy,Crime,Alec Guinness,Stanley Holloway,Sid James,Alfie Bass,Charles Crichton
+The Letter,1940,100,7.6,1,35,Noir,Romance,Bette Davis,Gale Sondergaard,Herbet Marshall,James Stephenson,William Wyler
+The Lion in Winter,1968,90,7.9,2,17,Drama,History,Peter O'Toole,Katharine Hepburn,Anthony Hopkins,Timothy Dalton,Anthony Harvey
+The Long Goodbye,1973,93,7.6,1,52,Mystery,Noir,Elliot Gould,Nina van Pallandt,Sterling Hayden,Mark Rydell,Robert Altman
+The Magnificent Seven,1960,89,7.7,2,8,Western,Thriller,Yul Brynner,Robert Vaughn,Charles Bronson,Eli Wallach,John Sturges
+The Maltese Falcon,1941,100,8,1,41,Mystery,Noir,Humphrey Bogart,Mary Astor,Peter Lorre,Sydney Greenstreet,John Huston
+The Man in the White Suit,1951,100,7.3,1,25,Comedy,Satire,Alec Guinness,Joan Greenwood,Cecil Parker,Michael Gough,Alexander Mackendrick
+The Man who would be King,1975,97,7.8,2,9,Adventure,Action,Sean Connery,Michael Caine,Christopher Plummer,Shakira Caine,John Huston
+The Manchurian Candidate,1962,96,7.9,2,6,Mystery,Thriller,Frank Sinatra,Angela Lansbury,Laurence Harvey,Janet Leigh,John Frankenheimer
+The Ox Bow Incident,1943,91,8,1,15,Western,Drama,Henry Fonda,Dana Andrews,Harry Morgan,Anthony Quinn,William A Wellman
+The Petrified Forest,1936,100,7.5,1,23,Noir,Crime,Humphrey Bogart,Leslie Howard,Bette Davis,Genevieve Tobin,Archie Mayo
+The Pink Panther,1963,89,7.1,1,55,Comedy,Slapstick,Peter Sellers,Claudia Cardinale,Capucine,Robert Wagner,Blake Edwards
+The Royal Tenenbaums,2001,80,7.6,1,50,Comedy,Drama,Ben Stiller,Gene Hackman,Gwyneth Paltrow,Owen Wilson,Wes Anderson
+The Score,2001,73,6.8,2,4,Thriller,Crime,Robert De Niro,Edward Norton,Marlon Brando,Angela Bassett,Frank Oz
+The Searchers,1956,98,7.9,1,59,Western,Drama,John Wayne,Jeffrey Hunter,Natalie Wood,Vera Miles,John Ford
+The Seventh Seal  ,1957,93,8.2,1,36,Fantasy,Drama,Max Von Sydow,Bibi Andersson,Bengt Ekerot,Gunnar Bjornstrand,Ingmar Bergman
+The Shop Around the Corner ,1940,100,8.1,1,39,Romance,Comedy,James Stewart,Margaret Sullivan,Frank Morgan,Joseph Schildkraut,Ernst Lubitsch
+The Stepfather,1987,88,6.8,1,30,Horror,Thriller,Terry O'Quinn,Jill Schoelen,Shelley Hack,Charles Lanyer,Joseph Ruben
+The Stunt Man,1980,89,7,2,11,Thriller,Comedy,Peter O'Toole,Steve Railsback,Barbara Hershey,Sharon Farrell,Richard Rush
+The Subject was Roses,1968,100,7,1,47,Drama,Drama,Martin Sheen,Jack Albertson,Patricia Neal,Don Saxon,Ulu Grosbard
+The Texas Chainsaw Massacre,1974,88,7.5,1,30,Horror,Thriller,Gunnar Hansen,Marilyn Burns,John Dungan,Jim Siedow,Tobe Hooper
+The Thin Man,1934,97,8,1,33,Mystery,Romance,Myrna Loy,William Powell,Maureen O'Sullivan,Cesar Romero,W S Van Dyke
+The Treasure of the Sierra Madre,1948,100,8.2,2,6,Western,Adventure,Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett,John Huston
+The Vikings ,1958,76,7.1,1,56,Adventure,Action,Kirk Douglas,Tony Curtis,Janet Leigh,Ernest Borgnine,Richard Fleischer
+The War of the Roses,1989,85,6.8,1,57,Comedy,Dark Comedy,Michael Douglas,Kathleen Turner,Danny DeVito,Marianne Sagebrecht,Danny DeVito
+The War Wagon,1967,90,6.9,2,2,Western,Heist,John Wayne,Kirk Douglas,Valora Noland,Howard Keel,Burt Kennedy
+The Westerner,1940,100,7.4,1,42,Western,Romance,Gary Cooper,Walter Brennan,Doris Davenport,Forrest Tucker,William Wyler
+The Wrong Man,1956,92,7.4,1,45,Noir,Drama,Henry Fonda,Vera Miles,Anthony Quayle,Harold J Stone,Alfred Hitchcock
+Thief,1981,94,7.4,2,6,Action,Noir,James Caan,Tuesday Weld,Robert Prosky,Dennis Farina,Michael Mann
+To Have And Have Not,1944,97,7.8,1,40,Romance,Adventure,Humphrey Bogart,Lauren Bacall,Walter Brennan,Dolores Moran,Howard Hanks
+Tokyo Story,1953,100,8.2,2,16,Drama,Drama,Setsuko Hara,Chishu Ryu,Chieko Higashiyama,Haruko Sugimara,Yasujiro Ozu
+Tootsie,1982,90,7.4,1,59,Comedy,Romance,Dustin Hoffman,Jessica Lange,Sydney Pollack,Teri Garr,Sydney Pollack
+Two Mules for Sister Sarah,1970,67,7,1,56,Western,Action,Clint Eastwood,Shirley MacLaine,Manuel Fabregas,Alberto Morin,Don Siegel
+Wait Until Dark,1967,96,7.8,1,48,Thriller,Psychological Thriller ,Audrey Hepburn,Alan Arkin,Richard Crenna,Julie Harold,Terence Young
+What Ever Happened to Baby Jane?,1962,92,8.1,2,15,Horror,Thriller,Bette Davis,Joan Crawford,Victor Buono,Maidie Norman,Robert Aldrich
+Where Eagles Dare,1968,91,7.7,2,38,War,Action,Richard Burton,Clint Eastwood,Mary Ure,Patrick Wymark,Brian G Hutton
+Where the Sidewalk Ends,1950,100,7.6,1,35,Noir,Crime,Dana Andrews,Gene Tierney,Gary Merrill,Karl Malden,Otto Preminger
+Who's Afraid of Virginia Woolf?,1966,95,8,2,12,Drama,Dark Comedy,Elizabeth Taylor,Richard Burton,Sandy Dennis,George Segal,Mike Nichols
+Working Girl,1988,83,6.8,1,56,Romance,Comedy,Harrison Ford,Melanie Griffith,Joan Cusack,Sigourney Weaver,Mike Nichols
+Wuthering Heights,1939,96,7.6,1,44,Romance,Drama,Laurence Olivier,Merle Oberon,David Niven,Geraldine Fitzgerald,William Wyler
+Young Mr Lincoln,1939,100,7.6,1,30,Drama,Drama,Henry Fonda,Alice Brady,Arleen Whelan,Majorie Weaver,John Ford
+
